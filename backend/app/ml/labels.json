@@ -1,0 +1,4 @@
+{"classes": ["Anthracnose", "Bacterial Canker", "Healthy", "Powdery Mildew", "Scab", "Sooty Mould", "Stem End Rot"],
+ "ids": ["anthracnose", "bacterial_canker", "healthy", "powdery_mildew", "scab", "sooty_mould", "stem_end_rot"],
+ "input_size": 224, "mean": [0.485, 0.456, 0.406], "std": [0.229, 0.224, 0.225],
+ "note": "Class ORDER is taken from the mango-disease-ai 0.1.3 source (model.py CLASSES). Output index i maps to classes[i]."}

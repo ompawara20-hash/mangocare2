@@ -1,0 +1,195 @@
+{
+ "_meta": {
+  "purpose": "Educational information only. Written in general terms; no chemical products or dosages are recommended.",
+  "references_status": "No source URLs have been independently verified yet; add verified references before relying on this content."
+ },
+ "diseases": [
+  {
+   "id": "anthracnose",
+   "name": "Anthracnose",
+   "scientific_name": "Colletotrichum gloeosporioides",
+   "plant_parts": [
+    "leaves",
+    "flowers",
+    "fruit"
+   ],
+   "description": "A fungal disease of mango that can affect leaves, flowers and fruit.",
+   "symptoms": [
+    "Dark brown to black spots on leaves",
+    "Spots that enlarge and merge",
+    "Blossom blight and twig dieback in severe cases"
+   ],
+   "conditions": [
+    "Warm, humid or wet weather"
+   ],
+   "precautions": [
+    "Remove and dispose of heavily affected plant material away from the orchard",
+    "Improve airflow through appropriate pruning",
+    "Avoid unnecessary leaf wetness",
+    "Handle harvested fruit carefully to limit injury"
+   ],
+   "next_steps": [
+    "Consult a local agricultural extension officer or plant pathologist to confirm the cause.",
+    "Follow local agricultural guidance, product labels and regulations for any treatment."
+   ],
+   "expert_advised": true
+  },
+  {
+   "id": "bacterial_canker",
+   "name": "Bacterial Canker",
+   "scientific_name": "Xanthomonas citri pv. mangiferaeindicae (verify)",
+   "plant_parts": [
+    "leaves",
+    "stems",
+    "fruit"
+   ],
+   "description": "A bacterial disease that can cause angular leaf lesions and cankers.",
+   "symptoms": [
+    "Angular, water-soaked leaf spots that turn dark",
+    "Raised lesions or cankers on twigs and fruit"
+   ],
+   "conditions": [
+    "Wet, windy weather and plant wounds can favour spread"
+   ],
+   "precautions": [
+    "Remove and dispose of infected tissue",
+    "Disinfect pruning tools between plants",
+    "Avoid working in the orchard when foliage is wet"
+   ],
+   "next_steps": [
+    "Consult a local agricultural extension officer or plant pathologist to confirm the cause.",
+    "Follow local agricultural guidance, product labels and regulations for any treatment."
+   ],
+   "expert_advised": true
+  },
+  {
+   "id": "healthy",
+   "name": "Healthy appearance",
+   "scientific_name": null,
+   "plant_parts": [
+    "leaves"
+   ],
+   "description": "The model found no visible signs matching the supported disease classes. This does not guarantee the plant is disease-free.",
+   "symptoms": [],
+   "conditions": [],
+   "precautions": [
+    "Continue regular orchard monitoring",
+    "Re-check if new spots, coatings or discolouration appear"
+   ],
+   "next_steps": [
+    "Take another photo if you still have concerns, or consult a local expert."
+   ],
+   "expert_advised": false
+  },
+  {
+   "id": "powdery_mildew",
+   "name": "Powdery Mildew",
+   "scientific_name": "Oidium mangiferae",
+   "plant_parts": [
+    "flowers",
+    "leaves",
+    "young fruit"
+   ],
+   "description": "A fungal disease that produces a whitish powdery growth on young tissue.",
+   "symptoms": [
+    "White to grey powdery coating on leaves or flower panicles",
+    "Distorted or dropping young tissue"
+   ],
+   "conditions": [
+    "Cool, dry-to-humid conditions around flowering"
+   ],
+   "precautions": [
+    "Monitor flowering shoots closely",
+    "Improve airflow through appropriate pruning",
+    "Remove severely affected tissue"
+   ],
+   "next_steps": [
+    "Consult a local agricultural extension officer or plant pathologist to confirm the cause.",
+    "Follow local agricultural guidance, product labels and regulations for any treatment."
+   ],
+   "expert_advised": true
+  },
+  {
+   "id": "scab",
+   "name": "Scab",
+   "scientific_name": "Elsinoë mangiferae",
+   "plant_parts": [
+    "leaves",
+    "fruit",
+    "young shoots"
+   ],
+   "description": "A fungal disease causing raised, corky or scabby lesions on young tissue.",
+   "symptoms": [
+    "Small raised spots on leaves and shoots",
+    "Scab-like or corky patches on fruit"
+   ],
+   "conditions": [
+    "Prolonged wet weather"
+   ],
+   "precautions": [
+    "Remove affected shoots",
+    "Avoid prolonged leaf wetness where possible",
+    "Maintain orchard hygiene"
+   ],
+   "next_steps": [
+    "Consult a local agricultural extension officer or plant pathologist to confirm the cause.",
+    "Follow local agricultural guidance, product labels and regulations for any treatment."
+   ],
+   "expert_advised": true
+  },
+  {
+   "id": "sooty_mould",
+   "name": "Sooty Mould",
+   "scientific_name": "Capnodium spp. (verify)",
+   "plant_parts": [
+    "leaves",
+    "twigs",
+    "fruit surface"
+   ],
+   "description": "A dark fungal growth on honeydew produced by sap-sucking insects. It is largely a surface coating.",
+   "symptoms": [
+    "Black, soot-like film on leaf surfaces",
+    "Reduced light reaching the leaf"
+   ],
+   "conditions": [
+    "Presence of honeydew-producing insects"
+   ],
+   "precautions": [
+    "Inspect for the insects that produce honeydew",
+    "Address the insect problem, since the mould follows it",
+    "Gentle cleaning of affected surfaces"
+   ],
+   "next_steps": [
+    "Consult a local agricultural extension officer or plant pathologist to confirm the cause.",
+    "Follow local agricultural guidance, product labels and regulations for any treatment."
+   ],
+   "expert_advised": true
+  },
+  {
+   "id": "stem_end_rot",
+   "name": "Stem End Rot",
+   "scientific_name": "Lasiodiplodia theobromae",
+   "plant_parts": [
+    "fruit",
+    "stems"
+   ],
+   "description": "A fungal disease associated with decay starting at the stem end, commonly seen after harvest.",
+   "symptoms": [
+    "Dark, spreading decay near the stem end"
+   ],
+   "conditions": [
+    "Plant stress, wounds and warm, humid storage"
+   ],
+   "precautions": [
+    "Handle fruit gently and avoid injuries",
+    "Remove dead wood and affected material",
+    "Store and transport fruit under clean, well-ventilated conditions"
+   ],
+   "next_steps": [
+    "Consult a local agricultural extension officer or plant pathologist to confirm the cause.",
+    "Follow local agricultural guidance, product labels and regulations for any treatment."
+   ],
+   "expert_advised": true
+  }
+ ]
+}
